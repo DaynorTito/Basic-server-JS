@@ -1,0 +1,14 @@
+{
+  "name": "activity2",
+  "version": "1.0.0",
+  "description": "Follow these steps to set up your Node.js project with Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daynor Tito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
