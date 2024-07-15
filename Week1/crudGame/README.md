@@ -14,7 +14,7 @@ Create a backend using Node.js and Express for game data. Implementing basic CRU
 ## Project Structure
 
 ```bash
-assignmetWeek2/
+assignmetWeek/
 ├── node_modules/
 ├── src/
 │   ├── controllers/
